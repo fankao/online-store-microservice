@@ -1,0 +1,12 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["invoice", "notification", "store"],
+    "directoryPath": "E:\\DOCUMENTS\\JAVA\\JAVA_WEBS\\WORK_SPACE_MICROSYSTEM\\web-ecommerce-app/",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [],
+    "monitoring": "elk",
+    "consoleOptions": ["zipkin"],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "Yjg5YTFlNDc1NjMyMTYwZTcwNWYxYjc3YjdhNTY1MDFhZTIzNTczNGVhODAxNmM3MjYyMjFiNjJiNDliNTU5ZDE2MDJlODI0NDg1MzFjMzMxYTQ3MzczOWJmY2QxZDllOGU0NQ=="
+  }
+}
